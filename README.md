@@ -136,8 +136,3 @@ The system generates:
 
 Developed an AI-powered Accounts Payable Exception Triage System that automates invoice exception detection, prioritization, and reporting. Implemented duplicate invoice detection, aging analysis, vendor risk assessment, and interactive dashboards using Python, Pandas, Plotly, and Gradio. Designed the solution to improve AP process efficiency and support intelligent finance operations.
 
-## Author
-
-Ashutosh Singh
-
-AI/ML Engineer | Data Analyst | Generative AI Developer
